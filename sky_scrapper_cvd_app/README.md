@@ -1,16 +1,11 @@
-# sky_scrapper_cvd_app
+# Covid App
 
-A new Flutter project.
+A Covid App Project in Flutter 
 
-## Getting Started
+## Screenshot
+<img src="https://user-images.githubusercontent.com/111499824/222415099-20946058-90cb-4ea3-84a7-a4371a74b625.jpg" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/111499824/222415136-0b1c0ec4-51e0-4bc4-bb80-25ad376f6652.jpg" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### GIF
+https://user-images.githubusercontent.com/111499824/222415051-bb423344-eb11-4ee4-a0b3-777cae41ab75.mp4
